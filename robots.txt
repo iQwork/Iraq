@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iqwork.github.io/Iraq/sitemap.xml
