@@ -1,0 +1,10 @@
+Legal Notice:
+
+This code is **not open source** and is protected by All Rights Reserved.
+
+It is illegal to:
+- Copy or reuse any part of this code (especially front-end UI or layout).
+- Host, sell, modify, or redistribute it without permission.
+
+Any unauthorized usage, including front-end theft,  
+will result in DMCA takedown and legal action without prior warning.
